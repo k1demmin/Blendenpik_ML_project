@@ -1,1 +1,18 @@
 #This will be the code for Blendenpik
+'''
+These are the packages that are present in the code's I found which is a decent indicator they are useful
+
+import numpy as np
+from numpy.random import rand , randn
+from numpy.linalg import lstsq , cond , norm
+from scipy.linalg import qr , solve_triangular , hadamard
+from scipy.sparse.linalg import LinearOperator , aslinearoperator , lsqr
+
+import scipy.sparse as spmat
+import scipy.fftpack as fft
+import scipy.linalg as lalg
+import scipy.sparse.linalg as splalg
+import ctypes
+import time
+import math
+'''
