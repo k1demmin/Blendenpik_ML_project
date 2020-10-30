@@ -16,7 +16,7 @@ import ctypes
 import time
 import math
 
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
 """
 """ For best understood code see the Blendenpik file by Ross Morrow"""
 """ What follows is a rough outline of what needs to be implemented. First note that Blendenpik needs to have
@@ -27,3 +27,9 @@ we should also generate various plots and perhaps could use a function to handle
 """Once again I will say that the paper is rather straighforward but doesn't really do a whole lot, and the code I mention above has lots of
 moving parts we might be able to figure out and make our own. To even really start this project we desperately need the code to execute the
 method in the first place"""
+
+"Blendenpik isn't really a method itself it instead uses other solvers but depends on a preconditioner to be different than just the solvers."
+
+def Blendenpik():
+  m,n = A.shape
+  
