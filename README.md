@@ -13,13 +13,11 @@
 <br />
 
   <h3 align="center">Blendenpik_project_for_CSCI6961</h3>
-
+  <p>
     This is the github for our ML project on the BLENDENPIK method presented in the paper by Avron et al. 
     It contains the main code of the Blendenpik object. Constructed Via several parameters and matrices. 
     Each of the other code files is an experiment or supporting code for the experiments. 
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+  </p>
 
 
 
