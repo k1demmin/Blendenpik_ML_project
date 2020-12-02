@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Our group looked into the paper titled \textit{Blendenpik: Supercharging Lapack's Least-Squares Solver}. 
+Our group looked into the paper titled "Blendenpik: Supercharging Lapack's Least-Squares Solver". 
 This paper was written by Haim Avron, Petar Maymounkov, and Sivan Toledo and was published in the SIAM Journal of Scientific Computing in January 2010.
 The algorithm developed in this paper, Blendenpik, uses preconditioning and iterative solvers to solve the least-squares problem, which by itself is not novel. 
 However, Blendenpik takes a randomized approach to building its preconditioning matrix, which speeds up the algorithm greatly and makes it more than competitive 
