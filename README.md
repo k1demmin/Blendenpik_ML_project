@@ -11,7 +11,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
 
   <h3 align="center">Blendenpik_project_for_CSCI6961</h3>
 
@@ -21,10 +20,6 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-</p>
-
-
 
 
 
