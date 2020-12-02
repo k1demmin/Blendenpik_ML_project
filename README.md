@@ -35,10 +35,10 @@ with LAPACK.
 
 ### Prerequisites
 
-python 3.0\\
-scipy\\
-sympy\\
-numpy\\
+python 3.0<br />
+scipy<br />
+sympy<br />
+numpy<br />
 
 
 <!-- LICENSE -->
@@ -51,11 +51,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Malachi Demmin - demmim@rpi.edu
-Shoron Dutta - duttas@rpi.edu
-Aaron Green - greena12@rpi.edu
-Dong Hu - hud3@rpi.edu
-Bingsheng Yao - yaob@rpi.edu
+Malachi Demmin - demmim@rpi.edu<br />
+Shoron Dutta - duttas@rpi.edu<br />
+Aaron Green - greena12@rpi.edu<br />
+Dong Hu - hud3@rpi.edu<br />
+Bingsheng Yao - yaob@rpi.edu<br />
 
 
 <!-- ACKNOWLEDGEMENTS -->
