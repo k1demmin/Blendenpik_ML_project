@@ -1,5 +1,2 @@
-This is the github for our ML project on the BLENDENPIK method presented in the paper. Hopefully people are familiar with github but my plan is to keep the main code
-here and hopefull have some subfiles that are experiments or people messing around with the code.
-
-Feel free to add and create things. I'm not super familar with github myself so I'm not sure a good policy on admin stuff and how to make sure everything works without
-running into unsupported code. We will figure it out as we go.
+This is the github for our ML project on the BLENDENPIK method presented in the paper by Avron etc. It contains the main code of the Blendenpik object. Constructed Via several parameters and
+matrices. Each of the other code files is an experiment or supporting code for the experiments. 
